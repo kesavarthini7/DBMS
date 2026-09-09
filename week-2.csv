@@ -1,0 +1,4 @@
+product_id,product_name,price,quantity,category_name
+1,Laptop,55000.00,10,Electronics
+2,T-Shirt,600.00,20,Clothing
+3,"Java Book",450.00,15,Books

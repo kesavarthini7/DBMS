@@ -1,0 +1,4 @@
+order_id,customer_name,product_name,quantity,price,status
+101,Arun,"Laptop Bag",1,1500.00,Delivered
+102,Kavin,Keyboard,2,1250.00,Pending
+103,Priya,Headphones,1,1800.00,Shipped
